@@ -1,0 +1,41 @@
+    <div>
+        <main>
+            <section class="about">
+                <h2>About Us</h2>
+                <div class="about-content">
+                    <div class="about-text">
+                        <p>Welcome to My Website! We are a team of passionate individuals committed to providing high-quality content and services. Our goal is to make your online experience enjoyable and informative.</p>
+                        <p>Here's what you can expect from us:</p>
+                        <ul>
+                            <li>Informative articles and blog posts</li>
+                            <li>Engaging multimedia content</li>
+                            <li>User-friendly website design</li>
+                            <li>Responsive customer support</li>
+                        </ul>
+                        <p>Thank you for visiting us. Feel free to explore our website and reach out to us if you have any questions or feedback.</p>
+                    </div>
+                    <div class="about-image" id="style-badge">
+                        <div class="badge-icon">
+                            <img id="badge" src="https://lf16-effect.tiktokcdn.com/obj/tiktok-effect-public-us/badges/ach_badge_assets/platinum-ach-badge-small-2.png">
+                            <div class="badge-right">
+                                <div class="badge-text">
+                                    Kim cương
+                                </div>
+                                <h1>
+                                    Danh hiệu Nhà sáng tạo hàng đầu 
+                                </h1>
+                            </div>
+                        </div>
+        
+                        <div class="avt">
+                            <img src="https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/5819c1f69e6c94afdc78482fc35f144b.webp?x-expires=1702796400&amp;x-signature=awdZj4OLEqbcaIPaszx04pnp5m8%3D">
+                        </div>
+                        
+                        <div class="text-badge">
+                            Nhà sáng tạo hàng đầu của Effect House
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </main>
+    </div>
